@@ -1,0 +1,7 @@
+# Files excluded from git tracking
+# eclipse files
+dist/
+*.classpath
+*.project
+.settings/
+*.class
